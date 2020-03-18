@@ -1,4 +1,6 @@
 module FancyDance 
-  include 
+  include Dance 
+  
+  
   
 end 
