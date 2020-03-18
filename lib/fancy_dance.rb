@@ -1,6 +1,6 @@
 module FancyDance 
   include Dance 
   
-  extend 
+  extend MetaDancing
   
 end 
